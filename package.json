@@ -12,7 +12,7 @@
     "mime-types": "^2.1.35",
     "path": "^0.12.7"
   },
-  "name": "greenwiz-backend-assignment",
+  "name": "greenWiz-backend",
   "version": "1.0.0",
   "main": "Index.js",
   "devDependencies": {},
